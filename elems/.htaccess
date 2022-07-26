@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteBase /
+
+deny from all
+#ограничиваем доступ к элементам папки
